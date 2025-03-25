@@ -1,0 +1,20 @@
+
+    
+ .dt{
+    background-image:url("umsssn1.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    height:270px;
+    width:100%;
+    text-align: center;
+
+    
+ } 
+  p{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .s {
+    margin-top: 20px; 
+  }
